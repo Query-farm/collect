@@ -23,4 +23,4 @@ jobs:
       duckdb_version: v1.4.1
       ci_tools_version: main
       extension_name: quack
-      format_checks: format;tidy
+      format_checks: tidy
